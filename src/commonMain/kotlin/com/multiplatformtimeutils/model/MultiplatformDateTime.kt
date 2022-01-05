@@ -1,0 +1,4 @@
+package com.multiplatformtimeutils.model
+
+expect class MultiplatformDateTime
+expect object MultiplatformDateTimeComparator: Comparator<MultiplatformDateTime>
